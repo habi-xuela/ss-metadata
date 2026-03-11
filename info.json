@@ -1,0 +1,22 @@
+{
+  "procesiones": [
+    {
+      "id": 1,
+      "nombre": "La Borriquita",
+      "dia": "Domingo de Ramos",
+      "hora": "16:00"
+    },
+    {
+      "id": 2,
+      "nombre": "El Gran Poder",
+      "dia": "Viernes Santo",
+      "hora": "02:00"
+    },
+    {
+      "id": 3,
+      "nombre": "La Macarena",
+      "dia": "Madrugada",
+      "hora": "00:30"
+    }
+  ]
+}
