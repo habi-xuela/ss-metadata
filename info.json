@@ -2,21 +2,73 @@
   "procesiones": [
     {
       "id": 1,
-      "nombre": "La Borriquita",
+      "nombre": "Triunfal Entrada en Jerusalén (La Borriquita)",
       "dia": "Domingo de Ramos",
-      "hora": "16:00"
+      "hora": "17:30",
+      "recorrido": "Salida de la Iglesia de la Encarnación, calles céntricas hasta Plaza de España y regreso"
     },
     {
       "id": 2,
-      "nombre": "El Gran Poder",
-      "dia": "Viernes Santo",
-      "hora": "02:00"
+      "nombre": "Oración en el Huerto y María Santísima de la Victoria",
+      "dia": "Lunes Santo",
+      "hora": "20:00",
+      "recorrido": "Salida de Iglesia de la Victoria, Plaza San Agustín, Romero Civantos, Plaza de España y retorno"
     },
     {
       "id": 3,
-      "nombre": "La Macarena",
-      "dia": "Madrugada",
-      "hora": "00:30"
+      "nombre": "Nuestro Padre Jesús del Perdón y María Santísima de la Misericordia",
+      "dia": "Martes Santo",
+      "hora": "20:45",
+      "recorrido": "Camino de las Cañas, Plaza Bustamante, Carrera Oficial y zonas céntricas de Motril"
+    },
+    {
+      "id": 4,
+      "nombre": "Santísimo Cristo de la Salud y Nuestra Señora del Mayor Consuelo",
+      "dia": "Miércoles Santo",
+      "hora": "20:00",
+      "recorrido": "Iglesia de la Victoria > Plaza San Agustín > Plaza Cruz Verde > Plaza Gaspar Esteva (Carrera Oficial) > Rambla del Manjón > retorno Iglesia de la Victoria"
+    },
+    {
+      "id": 5,
+      "nombre": "Jesús de Pasión y María Santísima de la Amargura",
+      "dia": "Jueves Santo",
+      "hora": "19:00",
+      "recorrido": "Salida desde Iglesia Mayor, Plaza de España, calles principales, Carrera Oficial y regreso al templo"
+    },
+    {
+      "id": 6,
+      "nombre": "Nuestro Padre Jesús Nazareno y María Santísima de la Esperanza",
+      "dia": "Jueves Santo",
+      "hora": "20:30",
+      "recorrido": "Salida de Casa Hermandad > Cañas > Rambla del Manjón > Carrera Oficial > Plaza de España > regreso"
+    },
+    {
+      "id": 7,
+      "nombre": "Cristo de la Buena Muerte (El Silencio)",
+      "dia": "Jueves Santo",
+      "hora": "00:00",
+      "recorrido": "Iglesia Mayor Parroquial de la Encarnación > Cardenal Belluga > Plaza del Ciprés > Carrera Oficial > Plaza de España > regreso al templo"
+    },
+    {
+      "id": 8,
+      "nombre": "Santo Sepulcro y Nuestra Señora de los Dolores",
+      "dia": "Viernes Santo",
+      "hora": "21:00",
+      "recorrido": "Iglesia Mayor Parroquial de la Encarnación > Plaza de España > Avda. San Agustín > Plaza Díaz Moreu > Carrera Oficial > regreso al templo"
+    },
+    {
+      "id": 9,
+      "nombre": "Nuestra Señora de la Soledad y Santísimo Cristo Yacente",
+      "dia": "Sábado Santo",
+      "hora": "20:00",
+      "recorrido": "Procesión tradicional por calles antiguas del casco urbano, centrada en zona de Plaza Gaspar Esteva y Rambla"
+    },
+    {
+      "id": 10,
+      "nombre": "Santísimo Cristo Resucitado",
+      "dia": "Domingo de Resurrección",
+      "hora": "10:30",
+      "recorrido": "Salida desde el templo principal, recorrido festivo por la ciudad hasta Plaza de España y regreso"
     }
   ]
 }
