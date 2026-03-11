@@ -5,10 +5,10 @@
       "nombre": "Hermandad de Nuestro Padre Jesús en su Triunfal Entrada en Jerusalén y Nuestra Señora del Rosario",
       "dia": "Domingo de Ramos",
       "salida": "17:00",
-      "carrera_oficial": "19:30",
-      "salida_carrera_oficial": "20:30",
-      "regreso_aproximado": "21:00",
-      "recorrido": "Salida de la Iglesia Mayor de la Encarnación – Plaza de España – Romero Civantos – Plaza Díaz Moreu – Catalanes – Plaza Canalejas – Cruz de Conchas – Chispas – Nueva – Teatro – Plaza Bustamante – Plaza Cruz Verde – Plaza Gaspar Esteva (CARRERA OFICIAL) – Emilio Moré – Catalanes – Zapateros – Avda. de San Agustín – Ruiz – Señor de Junes – Rambla del Manjón – Puerta de Granada – Regreso a la Iglesia Mayor Parroquial de la Encarnación."
+      "carrera_oficial": "20:15",
+      "salida_carrera_oficial": "20:15",
+      "regreso_aproximado": "21:30",
+      "recorrido": "Iglesia de la Encarnación – Plaza España – Puerta de Granada – San Francisco – Guayana – Señor de Junes – Ruiz – Avda. San Agustín – Zapateros – Catalanes – Plaza Fco. Javier de Burgos – Plazas centrales – Carrera Oficial – regreso a Iglesia de la Encarnación."
     },
     {
       "id": 2,
@@ -16,9 +16,9 @@
       "dia": "Lunes Santo",
       "salida": "20:00",
       "carrera_oficial": "22:30",
-      "salida_carrera_oficial": "23:30",
+      "salida_carrera_oficial": "22:30",
       "regreso_aproximado": "01:00",
-      "recorrido": "Salida Casa de Hermandad en C/ Cañas – Cañas – Rambla del Manjón – Señor de Junes – Ruiz – Avda. San Agustín – Zapateros – Catalanes – Emilio Moré – Plaza Gaspar Esteva (CARRERA OFICIAL) – Ventura – Marqués de Vistabella – Plaza Javier de Burgos – Plaza Canalejas – Curucho – Plaza Cappa – Tahona – Plaza La Libertad – Jazmín – Cañas – Regreso a su Casa de Hermandad (C/ Cañas)."
+      "recorrido": "Santuario de Ntra. Sra. Virgen de la Cabeza Coronada – Narciso González Cervera – Plaza del Tranvía – Carrera – Plaza Cruz Verde – Plaza Gaspar Esteva (Carrera Oficial) – Emilio Moré – Catalanes – Plaza de los Jardinillos – Carrera – Narciso González Cervera – regreso a su templo."
     },
     {
       "id": 3,
@@ -28,47 +28,77 @@
       "carrera_oficial": "23:45",
       "salida_carrera_oficial": "00:15",
       "regreso_aproximado": "00:45",
-      "recorrido": "Salida de Iglesia Mayor de la Encarnación – Plaza de España – Puerta de Granada – Rambla del Manjón – Monjas – Buenos Aires – Rambla del Carmen – Cañas – Mercado Alto – Cuatro Esquinas – Nueva – Seijas Lozano – Plaza del Ciprés – Milanesa – Marqués de Vistabella – Ventura – Plaza Cruz Verde – Plaza Gaspar Esteva (CARRERA OFICIAL) – Emilio Moré – Catalanes – Zapateros – Rodríguez Martín – Victoria – Plaza de España – Regreso a su Templo (Iglesia Mayor Parroquial de la Encarnación)."
+      "recorrido": "Iglesia del Carmen – Plaza de los Jardinillos – Camino de las Cañas – Plaza del Ciprés – Plaza Gaspar Esteva (Carrera Oficial) – Emilio Moré – Plaza Díaz Moreu – Plaza de España – Rambla del Manjón – regreso a su templo." 
     },
     {
       "id": 4,
       "nombre": "Cofradía de Penitencia del Santísimo Cristo de la Salud y Nuestra Señora del Mayor Consuelo",
       "dia": "Miércoles Santo",
       "salida": "20:00",
-      "carrera_oficial": "21:00",
-      "salida_carrera_oficial": "22:15",
-      "regreso_aproximado": "01:30",
-      "recorrido": "Salida Iglesia de la Victoria – Plaza San Agustín – Romero Civantos – Plaza Díaz Moreu – Emilio Moré – Plaza Gaspar Esteva (CARRERA OFICIAL) – Plaza Cruz Verde – Ventura – Marqués de Vistabella – Plaza Javier de Burgos – Comedias – Plaza de la Trinidad – Plaza de España – Puerta de Granada – Rambla del Manjón – Cañas – Rambla del Carmen – Buenos Aires – Monjas – Cañas – Rambla del Manjón – Señor de Junes – Ruiz – Avda. San Agustín."
+      "carrera_oficial": "21:15",
+      "salida_carrera_oficial": "21:15",
+      "regreso_aproximado": "23:30",
+      "recorrido": "Iglesia de la Victoria – Plaza San Agustín – Plaza Gaspar Esteva (Carrera Oficial) – Plaza Cruz Verde – Ventura – Marqués de Vistabella – Plaza Javier de Burgos – Plazas céntricas – regreso a Iglesia de la Victoria."
     },
     {
       "id": 5,
-      "nombre": "Cofradía Nuestra Señora de la Soledad y Santísimo Cristo Yacente",
-      "dia": "Sábado Santo",
-      "salida": "20:00",
+      "nombre": "Hermandad de Penitencia de Nuestro Padre Jesús de Pasión y María Santísima de la Amargura",
+      "dia": "Jueves Santo",
+      "salida": "19:00",
       "carrera_oficial": "22:15",
-      "salida_carrera_oficial": "23:15",
-      "regreso_aproximado": "00:00",
-      "recorrido": "Salida de la Casa de Hermandad en Calle Santa Ana – Manuel de Falla – Pío XII – Rambla de Capuchinos – Fundición – Nueva – Teatro – Marqués de Vistabella – Plaza Javier de Burgos – Catalanes – Emilio Moré – Plaza Gaspar Esteva (CARRERA OFICIAL) – Plaza Cruz Verde – Plaza Bustamante – Teatro – Nueva – Plaza de la Aurora – Párroco Martín Sierra – Cáceres – Santa Ana – Regreso a su Casa de Hermandad (Calle Santa Ana)."
+      "salida_carrera_oficial": "22:45",
+      "regreso_aproximado": "23:30",
+      "recorrido": "Santuario de Ntra. Sra. Virgen de la Cabeza Coronada – Narciso González Cervera – Carrera – Plaza de los Jardinillos – Zapateros – Avda. San Agustín – Rambla del Manjón – Puerta de Granada – Plaza de España – Plaza Gaspar Esteva (Carrera Oficial) – Emilio Moré – Catalanes – Plazas centrales – regreso a su templo." 
     },
     {
       "id": 6,
+      "nombre": "Cofradía de Nuestro Padre Jesús Nazareno y María Santísima de la Esperanza",
+      "dia": "Jueves Santo",
+      "salida": "20:30",
+      "carrera_oficial": "23:00",
+      "salida_carrera_oficial": "00:00",
+      "regreso_aproximado": "01:30",
+      "recorrido": "Casa de Hermandad (Cañas) – Cañas – Plaza de la Libertad – Plaza Ntro. Padre Jesús Nazareno – Plaza Gaspar Esteva (Carrera Oficial) – Emilio Moré – Plaza Díaz Moreu – Avda. de San Agustín – Rambla del Manjón – Cañas – regreso a su Casa de Hermandad."
+    },
+    {
+      "id": 7,
+      "nombre": "Cofradía del Santísimo Cristo de la Buena Muerte «El Silencio»",
+      "dia": "Jueves Santo",
+      "salida": "00:00",
+      "carrera_oficial": "02:00",
+      "salida_carrera_oficial": "02:30",
+      "regreso_aproximado": "03:00",
+      "recorrido": "Iglesia Mayor Parroquial de la Encarnación – Plaza de la Libertad – Plaza Canalejas – Cruz de Conchas – Plaza del Ciprés – Plaza Gaspar Esteva (Carrera Oficial) – Emilio Moré – Romero Civantos – Plaza de España – regreso a su templo." 
+    },
+    {
+      "id": 8,
       "nombre": "Cofradía del Santo Sepulcro y Nuestra Señora de los Dolores",
       "dia": "Viernes Santo",
       "salida": "21:00",
       "carrera_oficial": "23:00",
       "salida_carrera_oficial": "23:15",
       "regreso_aproximado": "00:30",
-      "recorrido": "Salida de la Iglesia Mayor Parroquial de la Encarnación – Plaza de España – Victoria – Avda. San Agustín – García Pizarro – Plaza Díaz Moreu – Emilio Moré – Plaza Gaspar Esteva (CARRERA OFICIAL) – Plaza Bustamante – Teatro – Nueva – Seijas Lozano – Plaza del Ciprés – Milanesa – Marqués de Vistabella – Plaza Javier de Burgos – Catalanes – Plaza Díaz Moreu – Romero Civantos – Plaza de España – Regreso a su Templo."
+      "recorrido": "Iglesia Mayor Parroquial de la Encarnación – Plaza de España – Avda. San Agustín – García Pizarro – Plaza Díaz Moreu – Plaza Gaspar Esteva (Carrera Oficial) – Plaza Bustamante – Teatro – Nueva – Plaza del Ciprés – Milanesa – Marqués de Vistabella – regreso a su templo." 
     },
     {
-      "id": 7,
+      "id": 9,
+      "nombre": "Cofradía Nuestra Señora de la Soledad y Santísimo Cristo Yacente",
+      "dia": "Sábado Santo",
+      "salida": "20:00",
+      "carrera_oficial": "22:15",
+      "salida_carrera_oficial": "23:15",
+      "regreso_aproximado": "00:00",
+      "recorrido": "Casa de Hermandad – Calle Santa Ana – Manuel de Falla – Pío XII – Rambla de Capuchinos – Plaza Gaspar Esteva (Carrera Oficial) – Plaza Cruz Verde – Plaza Bustamante – Teatro – Plaza de la Aurora – Párroco Martín Sierra – Cáceres – Santa Ana – regreso a su templo." 
+    },
+    {
+      "id": 10,
       "nombre": "Santísimo Cristo Resucitado",
       "dia": "Domingo de Resurrección",
       "salida": "10:30",
-      "carrera_oficial": "12:00",
+      "carrera_oficial": "12:50",
       "salida_carrera_oficial": "12:50",
-      "regreso_aproximado": "13:30",
-      "recorrido": "Salida de la Iglesia Mayor Parroquial de la Encarnación – Plaza de España – Romero Civantos – García Pizarro – Zapateros – Catalanes – Plaza Canalejas – Curucho – Plaza Cappa – Federico Gallardo – Cañas – Rambla del Carmen – Buenos Aires – Monjas – Cañas – Rambla del Manjón – Puerta de Granada – Regreso a su Templo."
+      "regreso_aproximado": "14:05",
+      "recorrido": "Iglesia de la Encarnación – Puerta de Granada – Rambla del Manjón – Señor de Junes – Ruiz – Avda. de San Agustín – Zapateros – Catalanes – Plaza Canalejas – Curucho – Plaza Cappa – Federico Gallardo – regreso a su templo." 
     }
   ]
 }
